@@ -1,4 +1,4 @@
-# Joining-a-computer-to-an-Active-Directory-server
+# Adding a Computer to Active Directory
 
 <h2>Description</h2>
 This SOP will demenstrate how to add a computer to an Active Directory server
